@@ -79,10 +79,14 @@ experiences:
 projects:
     title: Projects
     intro: >
-    assignments:
-      - title:
+    assignments: 
+      - title: Full Audio Channel Circuit (Microphone amp, frequency filter, mixer, and power amplifier)
         link:
-        tagline:
+        tagline: Purdue University course - Foundations of Audio Electronics (Spring 2019) final project
+        
+      - title: Screensaver (Automatic smooth image movement on a blank screen)
+        link:
+        tagline: Purdue University course - Advanced Digital Systems (Fall 2018) final project
 
 publications:
     title: Publications
