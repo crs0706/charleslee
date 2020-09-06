@@ -25,14 +25,14 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    Languages:
+    languages:
       - idiom: English
         level: Native
 
       - idiom: Korean
         level: Native
 
-    Research Interests:
+    interests:
       - item: Automatic Speech Recogniction (ASR)
         link: http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub2_1_a
 
