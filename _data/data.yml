@@ -25,22 +25,19 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
+    Languages:
       - idiom: English
         level: Native
 
       - idiom: Korean
         level: Native
 
-    interests:
+    Research Interests:
       - item: Automatic Speech Recogniction (ASR)
         link: http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub2_1_a
 
       - item: Image (Video) Quality Enhancement
         link: http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub2_1_c
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -52,20 +49,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
+    - degree: MSc in Electrical Engineering
       university: Bristol University
-      time: 2007 - 2011
+      time: 2020 Sep ~ Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -74,6 +60,14 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: BSc in Audio Engineering Technology
+      university: University of London
+      time: 2016 August ~ 2020 May
+      details: |
+        The major focused on mostly analog and digital circuits, also focused on audio systems (microphone, speaker, amplifer)
+          - Dean's List for all semesters at Purdue University
+          - Bullet point
+    
 experiences:
     - role: Lead Developer
       time: 2015 - Present
