@@ -50,14 +50,10 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: MSc in Electrical Engineering
-      university: Bristol University
+      university: POSTECH, Pohang, South Korea
       time: 2020 Sep ~ Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe your study here
           - Bullet point
           - Bullet point
     - degree: BSc in Audio Engineering Technology
@@ -66,72 +62,32 @@ education:
       details: |
         The major focused on mostly analog and digital circuits, also focused on audio systems (microphone, speaker, amplifer)
           - Dean's List for all semesters at Purdue University
-          - Bullet point
     
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Engineer Intern
+      time: 2019 May ~ Aug
+      company: Nitto Inc., Novi, Michigan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Learned about the automotive parts industry and helped with engineering tasks, including work with special noise-reducing materials and circuits for automobiles. Experienced social life and collaboration also learned how the business works.
+          - Cut and test with the samples made by Nitto. Most of the testings done were noise reduction test and water resistance of the samples.
+          - Cut, trim, and pack the products made by Nitto for the customers who ordered.
+          - Collect and organize data of Nitto products and car models (current production or end of production lists)
+    - role: Purdue University ECET 227 Lab Assistant
+      time: 2018 Jan ~ May
+      company: Purdue University - Polytechic Institute
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Helped Purdue undergraduate students with Electrical Engineering course lab assignments. 
+          - Checked students' circuit diagrams
+          - Helped fix students' circuits
+          - Explaining the concepts/calculations for performing lab assignments
+          - Make sure students' circuits do not make any safety issues (i.e.: burning components, sparks)
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title:
+        link:
+        tagline:
 
 publications:
     title: Publications
