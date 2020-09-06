@@ -42,12 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Charles Lee received the B.S. degree in Audio Engineering Technology in 2020 from Purdue University, West Lafayette, Indiana, U.S.A. He is currently pursuing the M.S. dgree in electrical engineering in 2020 from POSTECH, Pohang, South Korea.
 education:
     - degree: MSc in Electrical Engineering
       university: POSTECH, Pohang, South Korea
