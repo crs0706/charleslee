@@ -81,12 +81,13 @@ projects:
     intro: >
     assignments: 
       - title: Full Audio Channel Circuit (Microphone amp, frequency filter, mixer, and power amplifier)
-        link:
         tagline: Purdue University course - Foundations of Audio Electronics (Spring 2019) final project
         
       - title: Screensaver (Automatic smooth image movement on a blank screen)
-        link:
         tagline: Purdue University course - Advanced Digital Systems (Fall 2018) final project
+      
+      - title: POSCO ICT - Business Meeting Automatic Speech Recognition Mobile Version
+        tagline: Real time STT mobile application for business meeting
 
 publications:
     title: Publications
