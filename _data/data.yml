@@ -109,13 +109,13 @@ skills:
       - name: Python
         level: 90%
         
-      - name: Tensorflow 2
+      - name: Python - Tensorflow 2
         level: 85%
         
-      - name: PyTorch
+      - name: Python - PyTorch
         level: 85%
         
-      - name: Flask
+      - name: Python - Flask
         level: 70%
 
       - name: C-Language
