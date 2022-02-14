@@ -34,10 +34,10 @@ sidebar:
 
     interests:
       - item: Automatic Speech Recogniction (ASR)
-        link: http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub2_1_a
+      
+      - item: Audio Processing - Audible Noise Classification and Separation
 
       - item: Image (Video) Quality Enhancement
-        link: http://csdl.postech.ac.kr/bbs/board.php?bo_table=sub2_1_c
 
 career-profile:
     title: Career Profile
@@ -108,6 +108,12 @@ skills:
     toolset:
       - name: Python
         level: 90%
+        
+      - name: Tensorflow 2
+        level: 85%
+        
+      - name: PyTorch
+        level: 85%
 
       - name: C-Language
         level: 80%
